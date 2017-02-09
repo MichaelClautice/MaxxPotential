@@ -1,0 +1,76 @@
+body {
+    font-family: "helvetica neue", serif;
+        background-color: #ffff00;
+}
+
+
+
+#logo31 {
+    height: 88px;
+    width: 560px;
+    float: left;
+    /*top: 0;*/
+    margin: 10px 0 0 0;
+}
+
+#header {
+        background-color: blue;
+}
+
+#header h1 h2 {
+    float: right;
+    position: relative;
+    top: 0;
+}
+
+a {
+    font-family: "baskerville italic";
+    color: #bb1f25;
+}
+
+.header-h2 {
+    margin-top: 0;
+}
+.header-h1 {
+    margin-bottom: 0;
+}
+
+.logo {
+    margin-right: 0;
+}
+
+.jumbotron {
+    background: url("img/hero1.jpg") center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    max-height: 500px;
+    padding-bottom: 500px;
+}
+
+.border-hdg {
+    border-top: solid 3px #3d3d3d;
+    padding-top: 5px;
+    margin-bottom: 0;
+}
+
+.link {
+    font-family: "baskerville italic", serif;
+    font-size: 1.5em;
+    border-bottom: solid 6px #0d4b6e;
+    padding-bottom: 4px;
+}
+
+#footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #ffff00;
+    background-color: #3d3d3d;
+    margin-top: 40px;
+    font-size: 1.2em;
+}
+
+
+
+
